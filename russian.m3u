@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,А 1
+http://185.66.68.2:14/btv/A1
+#EXTINF:-1,А 2
+http://185.66.68.2:14/btv/A2
+#EXTINF:-1,Дом кино
+http://185.66.68.2:14/btv/DomKino
+#EXTINF:-1,Мужское кино
+http://185.66.68.2:14/btv/Muzskoe
+#EXTINF:-1,Bollywood
+http://185.66.68.2:14/btv/Bollywood
+#EXTINF:-1,Paramount
+http://185.66.68.2:14/btv/Paramount
+#EXTINF:-1,Киносемья
+http://185.66.68.2:14/btv/Semya
+#EXTINF:-1,В гостях у сказки
+http://185.66.68.2:14/btv/skazka
+#EXTINF:-1,Наш спорт
+http://185.66.68.2:14/btv/nassport
+#EXTINF:-1,Матч футбол
+http://185.66.68.2:14/btv/fut1
+#EXTINF:-1,матч футбол 2
+http://185.66.68.2:14/btv/futbol2
+#EXTINF:-1,матч футбол 3
+http://185.66.68.2:14/btv/fut3
+#EXTINF:-1,Discovery Europa
+http://185.66.68.2:14/btv/Discovery_Eu
+#EXTINF:-1,VHistory
+http://185.66.68.2:14/btv/ViasatHistory
+#EXTINF:-1,1 Мистический
+http://185.66.68.2:14/btv/1mistika
+#EXTINF:-1,Fantasy
+http://185.66.68.2:14/btv/Fantasy
+#EXTINF:-1,Познавательное ТВ
+http://185.66.68.2:14/btv/poznavatel
