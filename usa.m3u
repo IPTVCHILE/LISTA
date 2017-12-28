@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,KSWB Fox 5 SD Loop
+http://api.new.livestream.com/accounts/9263055/events/3189799/live.m3u8
+#EXTINF:-1,KRON 4 Mynetork SF
+http://api.new.livestream.com/accounts/7970204/events/2926299/live.m3u8
+#EXTINF:-1,KEYT SB
+http://api.new.livestream.com/accounts/19285506/events/5338978/live.m3u8
+#EXTINF:-1,KCOY SLO
+http://api.new.livestream.com/accounts/19128628/events/5285665/live.m3u8
+#EXTINF:-1,KTXL Sacr Fox 40
+http://api.new.livestream.com/accounts/9486720/events/3245377/live.m3u8
+#EXTINF:-1,KESQ Palm Springs
+http://api.new.livestream.com/accounts/20847880/events/6053226/live.m3u8
+#EXTINF:-1,CA
+http://api.new.livestream.com/accounts/26511688/events/7954874/live.m3u8
+#EXTINF:-1,Wrbc Fox 6 AL
+http://api.new.livestream.com/accounts/12446860/events/3855294/live.m3u8
+#EXTINF:-1,WOGX FOX 61 Gainesville FL 32653
+http://api.new.livestream.com/accounts/6372875/events/2592470/live.m3u8
+#EXTINF:-1,WGHP FOX 8 GreensboroNC
+http://api.new.livestream.com/accounts/9287016/events/3206504/live.m3u8
+#EXTINF:-1,WVUEl 8 Fox New Orleans LA
+http://api.new.livestream.com/accounts/10891792/events/3578864/live.m3u8
+#EXTINF:-1,Fox 32 Chicago
+http://api.new.livestream.com/accounts/6370732/events/2591850/live.m3u8
+#EXTINF:-1,WXMI Grand Rapids MI Fox
+http://api.new.livestream.com/accounts/9485505/events/3244983/live.m3u8
+#EXTINF:-1,WDAF Fox 4 Kansas City MO
+http://api.new.livestream.com/accounts/2304479/events/1745643/live.m3u8
+#EXTINF:-1,KMSP 9 Fox Minneapolis MN
+http://api.new.livestream.com/accounts/6396280/events/2598452/live.m3u8
+#EXTINF:-1,WPMT FOX 43 York PA
+http://api.new.livestream.com/accounts/9361953/events/3216874/live.m3u8
+#EXTINF:-1,WJBK Fox2 Detroit MI
+http://api.new.livestream.com/accounts/6396566/events/2598525/live.m3u8
+#EXTINF:-1,Fox 8 Cleveland OH
+http://api.new.livestream.com/accounts/57501/events/1146195/live.m3u8
+#EXTINF:-1,Fox 13 Salt Lake City
+http://api.new.livestream.com/accounts/3417744/events/1980071/live.m3u8
+#EXTINF:-1,Fox 31 Denver CO
+http://api.new.livestream.com/accounts/3417789/events/1980088/live.m3u8
+#EXTINF:-1,Fox 10 Phoenix AZ
+http://api.new.livestream.com/accounts/6140850/events/2549317/live.m3u8
+#EXTINF:-1,NewsWest 9 KWES Odessa TX
+http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+#EXTINF:-1,KCPQ/Q13 FOX Seattle WA
+http://api.new.livestream.com/accounts/9486768/events/3245401/live.m3u8
+#EXTINF:-1,KOIN 6 FoxPortland OR
+http://api.new.livestream.com/accounts/1864610/events/1649849/live.m3u
