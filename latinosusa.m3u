@@ -1,43 +1,39 @@
 #EXTM3U
-#EXTINF:-1,Canal 5
-http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/index.m3u8
-#EXTINF:-1,GALA TV
-http://189.216.247.113/Content/HLS/Live/Channel(GALATV_SD)/index.m3u8
-#EXTINF:-1,FORO TV
-http://189.216.247.113/Content/HLS/Live/Channel(FOROTV_HD)/index.m3u8
-#EXTINF:-1,NBA_TV
-http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
-#EXTINF:-1,Milenio hd
-http://189.216.247.113/Content/HLS/Live/Channel(MILENIO_HD)/index.m3u8
-#EXTINF:-1,FUSION TV
-http://189.216.247.113/Content/HLS/Live/Channel(FUSION)/index.m3u8
-#EXTINF:-1,NICK_JR
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_JR)/index.m3u8
-#EXTINF:-1,BANDA MAX
-http://189.216.247.113/Content/HLS/Live/Channel(BANDAMAX)/index.m3u8
-#EXTINF:-1,TDN
-http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
-#EXTINF:-1,UNIVISION_TDN
-http://189.216.247.113/Content/HLS/Live/Channel(UNIVISION_TDN)/index.m3u8
-#EXTINF:-1,ATRES_SERIES
-http://189.216.247.113/Content/HLS/Live/Channel(ATRES_SERIES)/index.m3u8
-#EXTINF:-1,NICK
-http://189.216.247.113/Content/HLS/Live/Channel(NICK_HD)/index.m3u8
-#EXTINF:-1,GOLDEN
-http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/index.m3u8
-#EXTINF:-1,AMC
-http://189.216.247.113/Content/HLS/Live/Channel(AMC_HD)/index.m3u8
-#EXTINF:-1,TNT
-http://189.216.247.113/Content/HLS/Live/Channel(TNT_HD)/index.m3u8
-#EXTINF:-1,SPACE
-http://189.216.247.113/Content/HLS/Live/Channel(SPACE)/index.m3u8
-#EXTINF:-1,Canal 5 HD
-http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO_WILD)/Stream(05)/index.m3u8
-#EXTINF:-1,ESPN HD
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
-#EXTINF:-1,ESPN2 HD
-http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(04)/index.m3u8
-#EXTINF:-1,F1 Latinoamerica
-http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+#EXTINF:-1,#0
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/152.ts
+#EXTINF:-1,M Estrenos
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/31.ts
+#EXTINF:-1,M Accion
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/159.ts
+#EXTINF:-1,M Comedia
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/155.ts
+#EXTINF:-1,M DCINE
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/156.ts
+#EXTINF:-1,M Serie
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/35.ts
+#EXTINF:-1,Bein LaLiga
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/1590.ts
+#EXTINF:-1,Bein sPORT
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/578.ts
+#EXTINF:-1,la Liga ES
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/32.ts
+#EXTINF:-1,GOL TV
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/2753.ts
+#EXTINF:-1,Eurosport1 es
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/1596.ts
+#EXTINF:-1,Barca TV
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/1037.ts
+#EXTINF:-1,Real Madrid TV
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/1038.ts
+#EXTINF:-1,M Partidazo
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/2757.ts
+#EXTINF:-1,M Futbol es
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/33.ts
+#EXTINF:-1,M Deportes1
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/34.ts
+#EXTINF:-1,M Deportes2
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/1591.ts
+#EXTINF:-1,M Formula1
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/1595.ts
+#EXTINF:-1,M Golf
+http://iptv.atlasiptv.net:88/live/326831054858617/326831054858617/1598.ts
