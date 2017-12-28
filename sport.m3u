@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,SkySport 1
+http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/51.ts
+#EXTINF:-1,SkySport 2
+http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/52.ts
+#EXTINF:-1,Sky Bundersliga 1
+http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/56.ts
+#EXTINF:-1,Sky Bundersliga 2
+http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/55.ts
+#EXTINF:-1,BeinSport 2
+http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/39.ts
+#EXTINF:-1,BeinSport 4
+http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/41.ts
+#EXTINF:-1,BeinSport 5
+http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/42.ts
+#EXTINF:-1,ArenaSport 1
+http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/53.ts
+#EXTINF:-1,ArenaSport 2
+http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/54.ts
+#EXTINF:-1,TringSport 1
+http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/3.ts
+#EXTINF:-1,TringSport 2
+http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/4.ts
+#EXTINF:-1,SuperSport 1
+http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/8.ts
+#EXTINF:-1,SuperSport 2
+http://163.172.210.207:8000/live/freeworldwideiptv.com/UnlimitedConnections/9.ts
