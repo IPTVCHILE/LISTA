@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-name=”Beinsport1HD”,Beinsport1HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/59.ts
+#EXTINF:-1 tvg-name=”Beinsport2HD”,Beinsport2HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/60.ts
+#EXTINF:-1 tvg-name=”Beinsport3HD”,Beinsport3HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/61.ts
+#EXTINF:-1 tvg-name=”Beinsport4HD”,Beinsport4HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/62.ts
+#EXTINF:-1 tvg-name=”Beinsport5HD”,Beinsport5HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/63.ts
+#EXTINF:-1 tvg-name=”Beinsport6HD”,Beinsport6HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/64.ts
+#EXTINF:-1 tvg-name=”Beinsport7HD”,Beinsport7HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/65.ts
+#EXTINF:-1 tvg-name=”Beinsport8HD”,Beinsport8HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/66.ts
+#EXTINF:-1 tvg-name=”beINSpor9_HD”,beINSpor9_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/67.ts
+#EXTINF:-1 tvg-name=”BeinSport10_HD”,BeinSport10_HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/188.ts
+#EXTINF:-1 tvg-name=”Beinsport11HD”,Beinsport11HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/226.ts
+#EXTINF:-1 tvg-name=”Beinsport12HD”,Beinsport12HD
+http://s1.iptv-pla.net:7040/live/kalejkaft/5C2A2A585C2A2A58/227.ts
