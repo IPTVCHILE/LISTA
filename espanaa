@@ -1,0 +1,261 @@
+#EXTM3U
+#EXTINF:-1,LA 1 HD
+http://merlin.magikdata.biz:8000/live/james3/james3/401.ts
+#EXTINF:-1,LA 2
+http://merlin.magikdata.biz:8000/live/james3/james3/402.ts
+#EXTINF:-1,ANTENA 3 HD
+http://merlin.magikdata.biz:8000/live/james3/james3/403.ts
+#EXTINF:-1,CUATRO HD
+http://merlin.magikdata.biz:8000/live/james3/james3/404.ts
+#EXTINF:-1,TELECINCO HD
+http://merlin.magikdata.biz:8000/live/james3/james3/405.ts
+#EXTINF:-1,LA SEXTA HD
+http://merlin.magikdata.biz:8000/live/james3/james3/406.ts
+#EXTINF:-1,ANTENA 3 SERIES HD
+http://merlin.magikdata.biz:8000/live/james3/james3/1426.ts
+#EXTINF:-1,ANDALUCIA TV
+http://merlin.magikdata.biz:8000/live/james3/james3/1439.ts
+#EXTINF:-1,BEMAD
+http://merlin.magikdata.biz:8000/live/james3/james3/1303.ts
+#EXTINF:-1,DKISS
+http://merlin.magikdata.biz:8000/live/james3/james3/1273.ts
+#EXTINF:-1,DMAX
+http://merlin.magikdata.biz:8000/live/james3/james3/2129.ts
+#EXTINF:-1,ENERGY
+http://merlin.magikdata.biz:8000/live/james3/james3/2124.ts
+#EXTINF:-1,FDF
+http://merlin.magikdata.biz:8000/live/james3/james3/568.ts
+#EXTINF:-1,MEGA
+http://merlin.magikdata.biz:8000/live/james3/james3/407.ts
+#EXTINF:-1,NEOX
+http://merlin.magikdata.biz:8000/live/james3/james3/417.ts
+#EXTINF:-1,NOVA
+http://merlin.magikdata.biz:8000/live/james3/james3/416.ts
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://merlin.magikdata.biz:8000/live/james3/james3/2130.ts
+#EXTINF:-1,TEN TELEVISION
+http://merlin.magikdata.biz:8000/live/james3/james3/2058.ts
+#EXTINF:-1,TRECE
+http://merlin.magikdata.biz:8000/live/james3/james3/1281.ts
+#EXTINF:-1,TV GALICIA
+http://merlin.magikdata.biz:8000/live/james3/james3/302.ts
+#EXTINF:-1,### MOVISTAR+ DEPORTES ###
+http://merlin.magikdata.biz:8000/live/james3/james3/389.ts
+#EXTINF:-1,BARÇA TV
+http://merlin.magikdata.biz:8000/live/james3/james3/2151.ts
+#EXTINF:-1,BEIN LA LIGA FULL HD
+http://merlin.magikdata.biz:8000/live/james3/james3/573.ts
+#EXTINF:-1,BEIN LA LIGA HD RESERVA 1
+http://merlin.magikdata.biz:8000/live/james3/james3/703.ts
+#EXTINF:-1,BEIN LA LIGA HD RESERVA 2
+http://merlin.magikdata.biz:8000/live/james3/james3/770.ts
+#EXTINF:-1,BEIN LIGA 1 HD
+http://merlin.magikdata.biz:8000/live/james3/james3/704.ts
+#EXTINF:-1,BEIN LIGA 2
+http://merlin.magikdata.biz:8000/live/james3/james3/772.ts
+#EXTINF:-1,BEIN SPORTS FULL HD
+http://merlin.magikdata.biz:8000/live/james3/james3/374.ts
+#EXTINF:-1,BEIN SPORTS HD RESERVA 1
+http://merlin.magikdata.biz:8000/live/james3/james3/701.ts
+#EXTINF:-1,BEIN SPORTS HD RESERVA 2
+http://merlin.magikdata.biz:8000/live/james3/james3/769.ts
+#EXTINF:-1,BEIN MAX 1 HD
+http://merlin.magikdata.biz:8000/live/james3/james3/702.ts
+#EXTINF:-1,BEIN MAX 2
+http://merlin.magikdata.biz:8000/live/james3/james3/768.ts
+#EXTINF:-1,BEIN MAX 3
+http://merlin.magikdata.biz:8000/live/james3/james3/2156.ts
+#EXTINF:-1,BEIN MAX 4
+http://merlin.magikdata.biz:8000/live/james3/james3/2157.ts
+#EXTINF:-1,BEIN MAX 5
+http://merlin.magikdata.biz:8000/live/james3/james3/2158.ts
+#EXTINF:-1,BEIN MAX 6
+http://merlin.magikdata.biz:8000/live/james3/james3/2159.ts
+#EXTINF:-1,BEIN MAX 7
+http://merlin.magikdata.biz:8000/live/james3/james3/2160.ts
+#EXTINF:-1,BEIN MAX 8
+http://merlin.magikdata.biz:8000/live/james3/james3/2161.ts
+#EXTINF:-1,EUROSPORT1 HD
+http://merlin.magikdata.biz:8000/live/james3/james3/457.ts
+#EXTINF:-1,GOL TV HD
+http://merlin.magikdata.biz:8000/live/james3/james3/981.ts
+#EXTINF:-1,GOL TV
+http://merlin.magikdata.biz:8000/live/james3/james3/455.ts
+#EXTINF:-1,M+ DEPORTES
+http://merlin.magikdata.biz:8000/live/james3/james3/365.ts
+#EXTINF:-1,M+ DEPORTES 2
+http://merlin.magikdata.biz:8000/live/james3/james3/367.ts
+#EXTINF:-1,M+ GOLF
+http://merlin.magikdata.biz:8000/live/james3/james3/361.ts
+#EXTINF:-1,M+ F1 FULL HD
+http://merlin.magikdata.biz:8000/live/james3/james3/319.ts
+#EXTINF:-1,M+ F1 HD RESERVA 1
+http://merlin.magikdata.biz:8000/live/james3/james3/706.ts
+#EXTINF:-1,M+ FUTBOL HD
+http://merlin.magikdata.biz:8000/live/james3/james3/362.ts
+#EXTINF:-1,M+ FUTBOL
+http://merlin.magikdata.biz:8000/live/james3/james3/363.ts
+#EXTINF:-1,M+ MOTO GP FULL HD
+http://merlin.magikdata.biz:8000/live/james3/james3/318.ts
+#EXTINF:-1,M+ MOTO GP HD RESERVA 1
+http://merlin.magikdata.biz:8000/live/james3/james3/695.ts
+#EXTINF:-1,M+ PARTIDAZO FULL HD
+http://merlin.magikdata.biz:8000/live/james3/james3/713.ts
+#EXTINF:-1,M+ PARTIDAZO HD RESERVA 1
+http://merlin.magikdata.biz:8000/live/james3/james3/694.ts
+#EXTINF:-1,M+ PARTIDAZO HD RESERVA 2
+http://merlin.magikdata.biz:8000/live/james3/james3/771.ts
+#EXTINF:-1,LALIGATV BAR
+http://merlin.magikdata.biz:8000/live/james3/james3/1411.ts
+#EXTINF:-1,LALIGA 1|2|3
+http://merlin.magikdata.biz:8000/live/james3/james3/2013.ts
+#EXTINF:-1,M+ TOROS
+http://merlin.magikdata.biz:8000/live/james3/james3/415.ts
+#EXTINF:-1,REAL MADRID TV HD
+http://merlin.magikdata.biz:8000/live/james3/james3/556.ts
+#EXTINF:-1,TELEDEPORTE HD
+http://merlin.magikdata.biz:8000/live/james3/james3/1427.ts
+#EXTINF:-1,### BEIN SPORTS FRANCIA ###
+http://merlin.magikdata.biz:8000/live/james3/james3/2238.ts
+#EXTINF:-1,BEIN SPORTS 1 HD FR
+http://merlin.magikdata.biz:8000/live/james3/james3/1391.ts
+#EXTINF:-1,BEIN SPORTS 2 HD FR
+http://merlin.magikdata.biz:8000/live/james3/james3/1392.ts
+#EXTINF:-1,BEIN SPORTS 3 HD FR
+http://merlin.magikdata.biz:8000/live/james3/james3/1393.ts
+#EXTINF:-1,CANAL+ SPORT FRANCE
+http://merlin.magikdata.biz:8000/live/james3/james3/2348.ts
+#EXTINF:-1,### SPORT TV PORTUGAL ###
+http://merlin.magikdata.biz:8000/live/james3/james3/2239.ts
+#EXTINF:-1,PT – SPORTV 1 HD
+http://merlin.magikdata.biz:8000/live/james3/james3/206.ts
+#EXTINF:-1,PT – SPORTV 2 HD
+http://merlin.magikdata.biz:8000/live/james3/james3/205.ts
+#EXTINF:-1,PT – SPORTV 3 HD
+http://merlin.magikdata.biz:8000/live/james3/james3/204.ts
+#EXTINF:-1,PT – SPORTV 4 SD
+http://merlin.magikdata.biz:8000/live/james3/james3/1110.ts
+#EXTINF:-1,PT – SPORTV 5 SD
+http://merlin.magikdata.biz:8000/live/james3/james3/1111.ts
+#EXTINF:-1,PT – SPORT TV +
+http://merlin.magikdata.biz:8000/live/james3/james3/2155.ts
+#EXTINF:-1,### MOVISTAR+ CINE-SERIES ###
+http://merlin.magikdata.biz:8000/live/james3/james3/386.ts
+#EXTINF:-1,#0 (CANAL+ HD)
+http://merlin.magikdata.biz:8000/live/james3/james3/348.ts
+#EXTINF:-1,A and E
+http://merlin.magikdata.biz:8000/live/james3/james3/382.ts
+#EXTINF:-1,AMC HD
+http://merlin.magikdata.biz:8000/live/james3/james3/2134.ts
+#EXTINF:-1,AXN
+http://merlin.magikdata.biz:8000/live/james3/james3/379.ts
+#EXTINF:-1,AXN WHITE
+http://merlin.magikdata.biz:8000/live/james3/james3/2154.ts
+#EXTINF:-1,CALLE 13
+http://merlin.magikdata.biz:8000/live/james3/james3/350.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://merlin.magikdata.biz:8000/live/james3/james3/343.ts
+#EXTINF:-1,COSMO
+http://merlin.magikdata.biz:8000/live/james3/james3/342.ts
+#EXTINF:-1,CRIMEN INVESTIGACION
+http://merlin.magikdata.biz:8000/live/james3/james3/2165.ts
+#EXTINF:-1,DCINE ESPANOL
+http://merlin.magikdata.biz:8000/live/james3/james3/339.ts
+#EXTINF:-1,FOX HD
+http://merlin.magikdata.biz:8000/live/james3/james3/329.ts
+#EXTINF:-1,FOX
+http://merlin.magikdata.biz:8000/live/james3/james3/330.ts
+#EXTINF:-1,FOX LIFE
+http://merlin.magikdata.biz:8000/live/james3/james3/328.ts
+#EXTINF:-1,HOLLYWOOD
+http://merlin.magikdata.biz:8000/live/james3/james3/326.ts
+#EXTINF:-1,M+ ACCION HD
+http://merlin.magikdata.biz:8000/live/james3/james3/733.ts
+#EXTINF:-1,M+ ACCION
+http://merlin.magikdata.biz:8000/live/james3/james3/1072.ts
+#EXTINF:-1,M+ COMEDIA HD
+http://merlin.magikdata.biz:8000/live/james3/james3/370.ts
+#EXTINF:-1,M+ ESTRENOS HD
+http://merlin.magikdata.biz:8000/live/james3/james3/746.ts
+#EXTINF:-1,M+ ESTRENOS
+http://merlin.magikdata.biz:8000/live/james3/james3/364.ts
+#EXTINF:-1,M+ DCINE HD
+http://merlin.magikdata.biz:8000/live/james3/james3/368.ts
+#EXTINF:-1,M+ DCINE
+http://merlin.magikdata.biz:8000/live/james3/james3/369.ts
+#EXTINF:-1,M+ SERIES HD
+http://merlin.magikdata.biz:8000/live/james3/james3/357.ts
+#EXTINF:-1,M+ SERIES XTRA
+http://merlin.magikdata.biz:8000/live/james3/james3/356.ts
+#EXTINF:-1,M+ XTRA
+http://merlin.magikdata.biz:8000/live/james3/james3/355.ts
+#EXTINF:-1,SYFY HD
+http://merlin.magikdata.biz:8000/live/james3/james3/2152.ts
+#EXTINF:-1,TNT
+http://merlin.magikdata.biz:8000/live/james3/james3/303.ts
+#EXTINF:-1,TCM
+http://merlin.magikdata.biz:8000/live/james3/james3/307.ts
+#EXTINF:-1,### MUSICA ###
+http://merlin.magikdata.biz:8000/live/james3/james3/999.ts
+#EXTINF:-1,ESKA BEST MUSIC TV
+http://merlin.magikdata.biz:8000/live/james3/james3/1875.ts
+#EXTINF:-1,HIT TV
+http://merlin.magikdata.biz:8000/live/james3/james3/2138.ts
+#EXTINF:-1,MTV ESPAÑA
+http://merlin.magikdata.biz:8000/live/james3/james3/418.ts
+#EXTINF:-1,MUSIC TOP
+http://merlin.magikdata.biz:8000/live/james3/james3/2137.ts
+#EXTINF:-1,ONE RUS HD
+http://merlin.magikdata.biz:8000/live/james3/james3/1877.ts
+#EXTINF:-1,TELEMUSICA
+http://merlin.magikdata.biz:8000/live/james3/james3/2136.ts
+#EXTINF:-1,VIRGIN TV LIVE
+http://merlin.magikdata.biz:8000/live/james3/james3/2140.ts
+#EXTINF:-1,### MOVISTAR+ INFANTILES ###
+http://merlin.magikdata.biz:8000/live/james3/james3/384.ts
+#EXTINF:-1,BABY TV
+http://merlin.magikdata.biz:8000/live/james3/james3/376.ts
+#EXTINF:-1,BOING
+http://merlin.magikdata.biz:8000/live/james3/james3/2125.ts
+#EXTINF:-1,CANAL PANDA
+http://merlin.magikdata.biz:8000/live/james3/james3/347.ts
+#EXTINF:-1,CLAN TVE
+http://merlin.magikdata.biz:8000/live/james3/james3/709.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://merlin.magikdata.biz:8000/live/james3/james3/337.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://merlin.magikdata.biz:8000/live/james3/james3/2150.ts
+#EXTINF:-1,DISNEY XD
+http://merlin.magikdata.biz:8000/live/james3/james3/334.ts
+#EXTINF:-1,NICKELODEON
+http://merlin.magikdata.biz:8000/live/james3/james3/708.ts
+#EXTINF:-1,NICK JR
+http://merlin.magikdata.biz:8000/live/james3/james3/2012.ts
+#EXTINF:-1,### MOVISTAR+ DOCUMENTALES ###
+http://merlin.magikdata.biz:8000/live/james3/james3/387.ts
+#EXTINF:-1,CANAL COCINA
+http://merlin.magikdata.biz:8000/live/james3/james3/349.ts
+#EXTINF:-1,CAZA Y PESCA
+http://merlin.magikdata.biz:8000/live/james3/james3/345.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://merlin.magikdata.biz:8000/live/james3/james3/2166.ts
+#EXTINF:-1,HISTORIA
+http://merlin.magikdata.biz:8000/live/james3/james3/327.ts
+#EXTINF:-1,NAT GEOGRAPHIC
+http://merlin.magikdata.biz:8000/live/james3/james3/314.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://merlin.magikdata.biz:8000/live/james3/james3/707.ts
+#EXTINF:-1,VIAJAR HD
+http://merlin.magikdata.biz:8000/live/james3/james3/2153.ts
+#EXTINF:-1,### TELECLUB SUIZA ###
+http://merlin.magikdata.biz:8000/live/james3/james3/1101.ts
+#EXTINF:-1,TELECLUB CINEMA
+http://merlin.magikdata.biz:8000/live/james3/james3/1096.ts
+#EXTINF:-1,TELECLUB PRIME
+http://merlin.magikdata.biz:8000/live/james3/james3/1095.ts
+#EXTINF:-1,TELECLUB STAR
+http://merlin.magikdata.biz:8000/live/james3/james3/1094.ts
+#EXTINF:-1,TELECLUB SPORT 1
+http://merlin.magikdata.biz:8000/live/james3/james3/1097.ts
+#EXTINF:-1,TELECLUB SPORT 2
+http://merlin.magikdata.biz:8000/live/james3/james3/1098.ts
