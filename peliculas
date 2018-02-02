@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/teaser-trailer.com/wp-content/uploads/Kingsman-2-New-Character-poster-1.jpg", KingsMan
+http://142.0.43.4/videos/kingsman_2.mp4
+
+
 #EXTINF:-1, group-title="Peliculas", HEROES EN EL INFIERNO HD> KIKE MTZ
 http://142.0.43.4/videos/heroes_en_el_infierno.mp4
 
