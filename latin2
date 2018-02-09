@@ -636,8 +636,57 @@ http://4.31.30.145:9022
 #EXTINF:0 group-title="Musica" , ,Code Fashion
 http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/clubbingtv-mobile.3gp.m3u8
  
- 
- 
+
+#EXTINF:0 group-title="Australia" , PRIME7 Canberra
+http://150.101.115.157:9981/stream/channelid/536642169?ticket=a9694f79981411628b82c7f2b25afa60ff1683fb&profile=pass
+#EXTINF:0 group-title="Australia" , ABC HD
+http://150.101.115.157:9981/stream/channelid/334751697?ticket=12a2fe7b98f97dfeab4ecbcf814ed8de1e04e724&profile=pass
+#EXTINF:0 group-title="Australia" , ABCComedy/Kids
+http://150.101.115.157:9981/stream/channelid/310588672?ticket=5b8db6b1e58fad7d08c129acbd46ce6a58fb558c&profile=pass
+#EXTINF:0 group-title="Australia" , ABC ME
+http://150.101.115.157:9981/stream/channelid/1865221575?ticket=74f768e542d4f4da3d1c844de64211728bb80ec6&profile=pass
+#EXTINF:0 group-title="Australia" , ABC NEWS
+http://150.101.115.157:9981/stream/channelid/1894204106?ticket=00910604f4bb4505007e5b833096747432c86d9d&profile=pass
+#EXTINF:0 group-title="Australia" , SBS ONE HD
+http://150.101.115.157:9981/stream/channelid/327607091?ticket=24f7e75e47e57d6c24c48eda580d7dd7387eb28f&profile=pass
+#EXTINF:0 group-title="Australia" , SBS VICELAND HD
+http://150.101.115.157:9981/stream/channelid/1336286643?ticket=b6d864afc48f96c10688355a0033946db6636510&profile=pass
+#EXTINF:0 group-title="Australia" , Food Network
+http://150.101.115.157:9981/stream/channelid/71066578?ticket=05aca576d74942ef3b8fb43ebafc751161c10f9b&profile=pass
+#EXTINF:0 group-title="Australia" , NITV
+http://150.101.115.157:9981/stream/channelid/342172994?ticket=256727c22d1e91dd3ea5332db87ee4fb6b392bd7&profile=pass
+#EXTINF:0 group-title="Australia" , SBS Radio 1
+http://150.101.115.157:9981/stream/channelid/1306776754?ticket=aeae42d9f628c6b94142037fc1933dc982044c6c&profile=pass
+#EXTINF:0 group-title="Australia" , SBS Radio 2
+http://150.101.115.157:9981/stream/channelid/1225268708?ticket=e78e532afdbf81e749749d69965c5b5dff764d5e&profile=pass
+#EXTINF:0 group-title="Australia" , SBS Radio 3
+http://150.101.115.157:9981/stream/channelid/1479626295?ticket=ef85fd38d568a5737f7b4fdf276212d067d36d4d&profile=pass
+#EXTINF:0 group-title="Australia" , 9HD Canberra
+http://150.101.115.157:9981/stream/channelid/536709939?ticket=51a8d28767d635d61f4a0b6ab833706592dbf454&profile=pass
+#EXTINF:0 group-title="Australia" , 9Gem
+http://150.101.115.157:9981/stream/channelid/781072480?ticket=8be85bebd9815d126cd86052bf4cebb2392df6d4&profile=pass
+#EXTINF:0 group-title="Australia" , 9Go!
+http://150.101.115.157:9981/stream/channelid/393031544?ticket=431f461f3d514c0d4fb8df445fe406f07ebbf304&profile=pass
+#EXTINF:0 group-title="Australia" , 9Life
+http://150.101.115.157:9981/stream/channelid/1677587094?ticket=0bf79d08ea2533818013f9af3f24dfc7156feae5&profile=pass
+#EXTINF:0 group-title="Australia" , 7TWO Canberra
+http://150.101.115.157:9981/stream/channelid/1853460316?ticket=c98d42fe6969b23d2a0d856c52d0dd9204979090&profile=pass
+#EXTINF:0 group-title="Australia" , 7mate Canberra
+http://150.101.115.157:9981/stream/channelid/2107637001?ticket=24f716cc8531d1d008b94bcaed0af9c94a6ec015&profile=pass
+#EXTINF:0 group-title="Australia" , 7flix
+http://150.101.115.157:9981/stream/channelid/1121818707?ticket=c4dc7e4412c3b022bf7125ebd3ba2266b1660685&profile=pass
+#EXTINF:0 group-title="Australia" , RACING.COM
+http://150.101.115.157:9981/stream/channelid/769376489?ticket=800b163cc124228c0f8f05e6a9062a0bbb46b289&profile=pass
+#EXTINF:0 group-title="Australia" , WIN Canberra HD
+http://150.101.115.157:9981/stream/channelid/293180727?ticket=c3914d29dbf6ca7c28b58f3907d3e71a64c238eb&profile=pass
+#EXTINF:0 group-title="Australia" , ONE Canberra
+http://150.101.115.157:9981/stream/channelid/2131329340?ticket=c59d1ffd29875b15f8c1028c3f2faa11b6df3e12&profile=pass
+#EXTINF:0 group-title="Australia" , ELEVEN Canberra
+http://150.101.115.157:9981/stream/channelid/751016292?ticket=de5971f2b926337d634c259c881b011c4ab59e06&profile=pass
+#EXTINF:0 group-title="Australia" , Double J
+http://150.101.115.157:9981/stream/channelid/715818321?ticket=1d9b357fccb4021e3d039589ed090e77ced61efe&profile=pass
+#EXTINF:0 group-title="Australia" , ABC Jazz
+http://150.101.115.157:9981/stream/channelid/1588024074?ticket=342328eefd7ae072453c385b6120d39b9634b7c2&profile=pass
 
 #EXTINF:-1 group-title="Internacional", UK | Food Network
 http://highroller.space:25461/live/porky/porky/635.ts
