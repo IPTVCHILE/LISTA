@@ -1,0 +1,58 @@
+#EXTM3U
+#EXTINF:0,Gospel Movies Television 
+http://stmv2.srvstm.com:1935/gospelf/gospelf/playlist.m3u8
+#EXTINF:0,Record SD 
+http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w567263838.m3u
+#EXTINF:0,SPORTV [COLOR yellow][B]HD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR]
+http://painel.iptvmove.com:25461/live/renato12/renato12/1254.ts
+#EXTINF:0, ESPN BRASIL
+http://painel.iptvmove.com:25461/live/renato12/renato12/1404.ts
+#EXTINF:0,FOX SPORTS [COLOR yellow][B]HD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR] 
+http://painel.iptvmove.com:25461/live/renato12/renato12/1397.ts
+#EXTINF:0,FOX SPORTS 2 [COLOR yellow][B]HD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR] 
+http://painel.iptvmove.com:25461/live/renato12/renato12/1396.ts
+#EXTINF:0,ESPORTE INTERATIVO BR [COLOR blue][B]SD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR] 
+http://painel.iptvmove.com:25461/live/renato12/renato12/1402.ts
+#EXTINF:0,Telecine Pipoca
+http://painel.iptvmove.com:25461/live/renato12/renato12/1244.ts
+#EXTINF:0,TELECINE PREMIUM [COLOR yellow][B]HD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR] 
+http://painel.iptvmove.com:25461/live/renato12/renato12/1362.ts
+#EXTINF:0,TELECINE ACTION [COLOR yellow][B]HD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR] 
+http://painel.iptvmove.com:25461/live/renato12/renato12/1247.ts
+http://painel.iptvmove.com:25461/live/renato12/renato12/1245.ts
+#EXTINF:0,TELECINE TOUCH [COLOR yellow][B]HD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR] 
+http://painel.iptvmove.com:25461/live/renato12/renato12/1361.ts
+#EXTINF:0,HBO [COLOR yellow][B]HD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR] 
+http://painel.iptvmove.com:25461/live/renato12/renato12/1307.ts
+#EXTINF:0,SPACE [COLOR yellow][B]HD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR] 
+http://painel.iptvmove.com:25461/live/renato12/renato12/1255.ts
+#EXTINF:0,FOX PREMIUM 1 [COLOR yellow][B]HD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR] 
+http://painel.iptvmove.com:25461/live/renato12/renato12/1401.ts
+#EXTINF:0,FOX PREMIUM 2 [COLOR yellow][B]HD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR] 
+http://painel.iptvmove.com:25461/live/renato12/renato12/1400.ts
+#EXTINF:0,FOX LIFE [COLOR yellow][B]HD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR] 
+http://painel.iptvmove.com:25461/live/renato12/renato12/1317.ts
+#EXTINF:0,SYFY [COLOR yellow][B]HD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR] 
+http://painel.iptvmove.com:25461/live/renato12/renato12/1250.ts
+#EXTINF:0,SONY [COLOR yellow][B]HD[/B][/COLOR][COLOR red] SERVIDOR:1[/COLOR] 
+http://painel.iptvmove.com:25461/live/renato12/renato12/1341.ts
+#EXTINF:0,AMC
+http://painel.iptvmove.com:25461/live/renato12/renato12/2326.ts
+http://painel.iptvmove.com:25461/live/renato12/renato12/1354.ts
+http://painel.iptvmove.com:25461/live/renato12/renato12/1419.ts
+http://painel.iptvmove.com:25461/live/renato12/renato12/1418.ts
+http://painel.iptvmove.com:25461/live/renato12/renato12/1417.ts
+http://painel.iptvmove.com:25461/live/renato12/renato12/1348.ts
+http://painel.iptvmove.com:25461/live/renato12/renato12/1344.ts
+http://painel.iptvmove.com:25461/live/renato12/renato12/1339.ts
+#EXTINF:0,SporTV 2
+http://painel.iptvmove.com:25461/live/renato12/renato12/1253.ts
+#EXTINF:0,SporTV 3
+http://painel.iptvmove.com:25461/live/renato12/renato12/1252.ts
+#EXTINF:0,TNT
+http://painel.iptvmove.com:25461/live/renato12/renato12/1238.ts
+http://painel.iptvmove.com:25461/live/renato12/renato12/1251.ts
+#EXTINF:0,Telecine Action
+http://painel.iptvmove.com:25461/live/renato12/renato12/1247.ts
+#EXTINF:0,Telecine Cult
+http://painel.iptvmove.com:25461/live/renato12/renato12/1246.ts
