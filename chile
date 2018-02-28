@@ -2,7 +2,7 @@
  
 #EXTINF:0,-CHILE-
  
-#EXTINF:0 type="favorites" tvg-logo="http://2.bp.blogspot.com/-2zj4Ey0x7zk/VP87C4FtLpI/AAAAAAAAEHw/9CjzippWGR4/s1600/Canal%2B13%2BHD%2B2.png" group-title="CHILE", Canal 13 HD
+#EXTINF:0  tvg-logo="http://2.bp.blogspot.com/-2zj4Ey0x7zk/VP87C4FtLpI/AAAAAAAAEHw/9CjzippWGR4/s1600/Canal%2B13%2BHD%2B2.png" group-title="CHILE", Canal 13 HD
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8?iptvgratis?chile.m3u8
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/ibvV8v0.png" group-title="CHILE",TVN HD
@@ -11,16 +11,16 @@ http://mdstrm.com/live-stream-playlist_1500/57a498c4d7b86d600e5461cb.m3u8?iptvgr
 #EXTINF:-1 tvg-logo="https://i.imgur.com/plene2D.png" group-title="CHILE",Mega HD
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8?iptvgratis?chile.m3u8
  
-#EXTINF:0 type="favorites" tvg-logo="http://4.bp.blogspot.com/-I0ZGpsDySjE/VP87Bw6JdUI/AAAAAAAAEHY/gN1869LDdPE/s1600/CHV%2BHD%2B3.png" , CHV HD
+#EXTINF:0 tvg-logo="http://4.bp.blogspot.com/-I0ZGpsDySjE/VP87Bw6JdUI/AAAAAAAAEHY/gN1869LDdPE/s1600/CHV%2BHD%2B3.png" , CHV HD
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8?iptvgratis?chile.m3u8
  
-#EXTINF:0 type="favorites" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/UCV_HD_2014.png" , UCV HD
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/UCV_HD_2014.png" , UCV HD
 http://unlimited1-cl.dps.live/ucvtv/ucvtv.smil/ucvtv/livestream1/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/XnebN3V.png" group-title="CHILE",La Red HD
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/chunklist_b829163.m3u8?iptvgratis?chile.m3u8
  
-#EXTINF:-1,CNN Chile
+#EXTINF:-1, tvg-logo="http://globalcdn03.mundotkm.com/2016/11/Cnn_cl.png" group-title="CHILE",CNN Chile
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/EqfxvtV.png" group-title="CHILE",Ahora Noticias
@@ -32,11 +32,8 @@ http://cdn.ztreaming.com/t13vivo3/mobile.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://tecache.cl/wp-content/uploads/2012/08/La-Red-logo.png" group-title="CHILE", La red
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
  
-#EXTINF:-1 tvg-logo="" group-title="CHILE", Carolina TV
+#EXTINF:-1 tvg-logo="http://fmyam.webpin.com/imagesnew2/0/0/0/2/1/5/8/8/0/4/carolina%20radio.png" group-title="Radios-CHILE",Carolina TV
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CHILE", CNN
-http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
  
 #EXTINF:-1 tvg-logo="" group-title="CHILE", Canal Carnaval 38
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
@@ -59,94 +56,94 @@ http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CHILE", VTV 2
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="sCvUjtl.png" group-title="Canales Chilenos", La Red | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/sCvUjtl.png" group-title="Canales Chilenos", La Red | HD
 http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8|User-agent=iPhone
  
-#EXTINF:-1, tvg-logo="Bd09LnA.png" group-title="Canales Chilenos", UCV | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/Bd09LnA.png" group-title="Canales Chilenos", UCV | HD
 http://unlimited5-cl.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="f41IHoB.png" group-title="Canales Chilenos", TVN | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/f41IHoB.png" group-title="Canales Chilenos", TVN | HD
 http://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?
  
-#EXTINF:-1, tvg-logo="HN9mYDP.png" group-title="Canales Chilenos", MEGA | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/HN9mYDP.png" group-title="Canales Chilenos", MEGA | HD
 http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
  
-#EXTINF:-1, tvg-logo="H3cPpIc.png" group-title="Canales Chilenos", CHV | SD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/H3cPpIc.png" group-title="Canales Chilenos", CHV | SD
 http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
  
-#EXTINF:-1, tvg-logo="HqKYZvm.png" group-title="Canales Chilenos", Canal 13 | SD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/HqKYZvm.png" group-title="Canales Chilenos", Canal 13 | SD
 http://csm-e.yospace.13.cl/csm/extlive/canal13cl01,CH13M.m3u8?
  
-#EXTINF:-1, tvg-logo="6RSsii5.png" group-title="Canales Chilenos", T13 Movil | SD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/6RSsii5.png" group-title="Canales Chilenos", T13 Movil | SD
 http://cdn.ztreaming.com/t13vivo3/t13vivo3.m3u8
  
-#EXTINF:-1, tvg-logo="Dd9PMar.png" group-title="Canales Chilenos", CNN Chile | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="Canales Chilenos", CNN Chile | HD
 http://unlimited7-cl.dps.live/cnn/cnn.smil/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="Dd9PMar.png" group-title="Canales Chilenos", CNN Chile | HD (Mirror USA)
+#EXTINF:-1, tvg-logo="http://i.imgur.com/Dd9PMar.png" group-title="Canales Chilenos", CNN Chile | HD (Mirror USA)
 http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="D3m8gI2.png" group-title="Canales Chilenos", 24 Horas | SD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/D3m8gI2.png" group-title="Canales Chilenos", 24 Horas | SD
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
  
-#EXTINF:-1, tvg-logo="0kJfD7l.png" group-title="Canales Chilenos", TV Chile | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/0kJfD7l.png" group-title="Canales Chilenos", TV Chile | HD
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
  
-#EXTINF:-1, tvg-logo="Jy2cSn9.png" group-title="Canales Chilenos", Ahora Noticias Digital | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/Jy2cSn9.png" group-title="Canales Chilenos", Ahora Noticias Digital | HD
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
  
-#EXTINF:-1, tvg-logo="1x7h1ve.png" group-title="Canales Chilenos", UCV Gran Valpara&iacute;so | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/1x7h1ve.png" group-title="Canales Chilenos", UCV Gran Valpara&iacute;so | HD
 http://wow2.cl.digitalproserver.com/ucvtv2/ucvtv2vivo/ucvtv2.smil/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="bsrVp3u.png" group-title="Canales Chilenos", NIU TV | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/bsrVp3u.png" group-title="Canales Chilenos", NIU TV | HD
 http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
  
-#EXTINF:-1, tvg-logo="9D6jpxM.png" group-title="Canales Chilenos", Limo TVN | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/9D6jpxM.png" group-title="Canales Chilenos", Limo TVN | HD
 http://mdstrm.com/live-stream-playlist/58cc0bf22d212a64177fddb1.m3u8
  
-#EXTINF:-1, tvg-logo="5egLidz.png" group-title="Canales Chilenos", TVN Kids | SD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/5egLidz.png" group-title="Canales Chilenos", TVN Kids | SD
 http://mdstrm.com/live-stream-playlist/5925dba039cfbf492f30b563.m3u8
  
-#EXTINF:-1, tvg-logo="2HGma9m.png" group-title="Canales Chilenos", CDO | SD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/2HGma9m.png" group-title="Canales Chilenos", CDO | SD
 http://edge1.cl.grupoz.cl/cdofree/live/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="iHOBFZR.png" group-title="Canales Chilenos", Se&ntilde;al UC | SD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/iHOBFZR.png" group-title="Canales Chilenos", Se&ntilde;al UC | SD
 http://www.senaluc.cl:80/playlist/stream.m3u8?s=vdmfcom
  
-#EXTINF:-1, tvg-logo="tZ3gJiP.png" group-title="Canales Chilenos", Canal 9 | HD | Concepcion
+#EXTINF:-1, tvg-logo="http://i.imgur.com/tZ3gJiP.png" group-title="Canales Chilenos", Canal 9 | HD | Concepcion
 http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="XHChUjI.png" group-title="Canales Chilenos", TVU | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/XHChUjI.png" group-title="Canales Chilenos", TVU | HD
 http://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="LHn9ofg.png" group-title="Canales Chilenos", Contivision | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/LHn9ofg.png" group-title="Canales Chilenos", Contivision | HD
 http://wow2.cl.digitalproserver.com/contivisionhd/contivisionhdvivo/contivisionhd.smil/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="LHn9ofg.png" group-title="Canales Chilenos", Contivision Musica | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/LHn9ofg.png" group-title="Canales Chilenos", Contivision Musica | HD
 http://wow2.cl.digitalproserver.com/contivisionmusica/contivisionmusicavivo/contivisionmusica.smil/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="lg6TVYn.png" group-title="Canales Chilenos", Camara de Diputados | SD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/lg6TVYn.png" group-title="Canales Chilenos", Camara de Diputados | SD
 http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
  
-#EXTINF:-1, tvg-logo="lg6TVYn.png" group-title="Canales Chilenos", Camara de Diputados (DVR) | SD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/lg6TVYn.png" group-title="Canales Chilenos", Camara de Diputados (DVR) | SD
 http://camara.02.cl.cdnz.cl/cdndvr/ngrp:live_all/playlist.m3u8?DVR
  
-#EXTINF:-1, tvg-logo="ozCnnDg.png" group-title="Canales Chilenos", TV Senado | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/ozCnnDg.png" group-title="Canales Chilenos", TV Senado | HD
 http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
  
-#EXTINF:-1, tvg-logo="KO9XhLU.png" group-title="Canales Chilenos", Teletrak | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/KO9XhLU.png" group-title="Canales Chilenos", Teletrak | HD
 rtmp://edge1.cl.grupoz.cl/teletrak/ playpath=live swfUrl=http://live.grupoz.cl/swf/jwplayer.flash.swf live=1 pageUrl=http://live.grupoz.cl/61b0f5120768b40f627d98dce728d71b
  
-#EXTINF:-1, tvg-logo="KO9XhLU.png" group-title="Canales Chilenos", Sporting | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/KO9XhLU.png" group-title="Canales Chilenos", Sporting | HD
 http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="QL0Jmm8.png" group-title="Canales Chilenos", Canal Carnaval | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/QL0Jmm8.png" group-title="Canales Chilenos", Canal Carnaval | HD
 http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/carnavaltv.smil/chunklist.m3u8
  
-#EXTINF:-1, tvg-logo="IuKMKEX.png" group-title="Canales Chilenos", UESTV | SD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/IuKMKEX.png" group-title="Canales Chilenos", UESTV | SD
 http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
  
-#EXTINF:-1, tvg-logo="V0M2tqk.png" group-title="Canales Chilenos", Canal de los Recuerdos | HD
+#EXTINF:-1, tvg-logo="http://i.imgur.com/V0M2tqk.png" group-title="Canales Chilenos", Canal de los Recuerdos | HD
 http://wow2.cl.digitalproserver.com/recuerdos/recuerdosvivo/recuerdos.smil/playlist.m3u8
  
 #EXTINF:0 type="stream" tvg-logo="http://vignette2.wikia.nocookie.net/tvcable/images/1/11/TVCHILE.png/revision/latest?cb=20161006142334&amp;path-prefix=es"group-title="CHILE", TV Chile
